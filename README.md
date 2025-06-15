@@ -1,16 +1,67 @@
-# cart
+# 🛍️ Flutter Shopping App
 
-A new Flutter project.
+A sleek and simple shopping app built using **Flutter** and **Firebase**.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🔐 Firebase Email & Password Authentication  
+- 🛒 Product listing with images from Firestore  
+- ➕ Add to Cart / ➖ Remove from Cart  
+- 💾 Cart state managed with **Provider**  
+- 📱 Clean UI and responsive design
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Login | Products | Cart |
+|-------|----------|------|
+| ![](./output1.jpeg) | ![](./output2.jpeg) | ![](./output3.jpeg) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚙️ Getting Started
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/your-username/flutter-shopping-app.git
+   cd flutter-shopping-app
+   ```
+
+2. **Install dependencies**
+   ```bash
+   flutter pub get
+   ```
+
+3. **Firebase Setup**
+   - Create a Firebase project
+   - Enable **Authentication** (Email/Password)
+   - Setup **Cloud Firestore**
+   - Add `google-services.json` to `/android/app`
+
+4. **Run the app**
+   ```bash
+   flutter run
+   ```
+
+## 📁 Folder Structure
+
+```
+lib/
+├── main.dart
+├── models/
+├── screens/
+├── providers/
+├── widgets/
+```
+
+## 🔧 Built With
+
+- Flutter
+- Firebase Auth & Firestore
+- Provider for State Management
+
+## 👨‍💻 Developer
+
+**Nirlep Sanap**  
+[GitHub](https://github.com/your-username) • [Portfolio](https://your-portfolio.com)
+
+---
+
+⭐ Star this repo if you found it helpful!
