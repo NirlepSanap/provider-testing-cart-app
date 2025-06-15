@@ -40,28 +40,10 @@ A sleek and simple shopping app built using **Flutter** and **Firebase**.
    flutter run
    ```
 
-## 📁 Folder Structure
-
-```
-lib/
-├── main.dart
-├── models/
-├── screens/
-├── providers/
-├── widgets/
-```
-
 ## 🔧 Built With
 
 - Flutter
 - Firebase Auth & Firestore
 - Provider for State Management
 
-## 👨‍💻 Developer
 
-**Nirlep Sanap**  
-[GitHub](https://github.com/your-username) • [Portfolio](https://your-portfolio.com)
-
----
-
-⭐ Star this repo if you found it helpful!
