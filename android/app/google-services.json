@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937369858940",
+    "project_id": "shoppingapp-ed8ab",
+    "storage_bucket": "shoppingapp-ed8ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937369858940:android:27f14235cb8ab448aaeaf9",
+        "android_client_info": {
+          "package_name": "com.example.cart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ3sbSChnG-H6jJLtfsG2CQqgUYvxgaIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
